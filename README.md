@@ -3,7 +3,7 @@
 ### Identify melanoma in lesion images
 
 ## Team Members
-
+- [Hemant Singh](https://github.com/hemantsinghchahar)
 - [Pratik Bedre](https://www.kaggle.com/cdeotte)
 - [Gyanendra Das](https://github.com/Luckygyana)
 - [Saksham Aggarwal](https://github.com/saksham20aggarwal)
